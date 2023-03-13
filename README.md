@@ -1,11 +1,8 @@
 # LOAN-STATUS-PREDICTION-USING-MACHINE-LEARNING
-Loan\_Status\_Prediction
-
 -----
 The aim of this project is to predict whether the loan of a person will be approved or not using a dataset from Kaggle using machine learning.
 
-Libraries used: -
-
+# Libraries used: -
 -----
 - **Numpy**
 
@@ -80,8 +77,7 @@ Seaborn is a library for making statistical graphics in Python. It builds on top
 
 ![](Aspose.Words.426ab2f4-1220-4c79-a39d-bc9412eb1bbf.009.png)
 
-Data Analysis
-
+# Data Analysis
 -----
 - Based on Education
 
@@ -91,8 +87,7 @@ Data Analysis
 
 ![](Aspose.Words.426ab2f4-1220-4c79-a39d-bc9412eb1bbf.011.png)
 
-Model Analysis
-
+# Model Analysis
 -----
 - With an accuracy score of 79.86% on training data and an accuracy of 83.33% on test data, our model will predict whether the loan will be approved or rejected.
 
@@ -105,6 +100,7 @@ Model Analysis
 ![](Aspose.Words.426ab2f4-1220-4c79-a39d-bc9412eb1bbf.015.png)
 
 
-It’s easy to get a loan, unless you need it!-----
+# It’s easy to get a loan, unless you need it!
+-----
 
 ![Homeloan GIFs - Get the best GIF on GIPHY](Aspose.Words.426ab2f4-1220-4c79-a39d-bc9412eb1bbf.016.png)
